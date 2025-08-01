@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sanan Ahmad
+# Hi, I'm Sanan Ahmad
 
 ## Full Stack Developer
 
