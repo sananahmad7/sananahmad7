@@ -145,10 +145,6 @@
 
 <br>
 
-<p align="left">
-<a href="https://github.com/sananahmad7">
-  <img src="https://metrics.lecoq.io/sananahmad7?template=classic&base=languages" alt="Top Languages" />
-</a>
-</p>
+
 
 ---
