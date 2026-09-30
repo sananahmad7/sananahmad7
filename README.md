@@ -145,6 +145,10 @@
 
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sananahmad7&layout=compact&theme=transparent&hide_border=true)](https://github.com/sananahmad7)
+<p align="left">
+<a href="https://github.com/sananahmad7">
+  <img src="https://metrics.lecoq.io/sananahmad7?template=classic&base=languages" alt="Top Languages" />
+</a>
+</p>
 
 ---
